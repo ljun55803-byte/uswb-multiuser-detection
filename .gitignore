@@ -1,8 +1,9 @@
 results/
+docs/figures/
 *.png
-!docs/figures/*.svg
-__pycache__/
-.pytest_cache/
+*.svg
+*.csv
 *.pt
 *.pth
-*.csv
+__pycache__/
+.pytest_cache/
