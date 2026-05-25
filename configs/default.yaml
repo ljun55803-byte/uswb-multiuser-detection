@@ -1,0 +1,15 @@
+fs: 100000000.0
+symbol_duration: 10.24e-6
+pulse_width: 640e-9
+ppm_shift: 1.0e-6
+m_naka: 0.71
+omega_0: 0.08
+num_paths: 3
+min_space_ns: 640
+max_space_ns: 3000
+num_users: 1
+num_symbols: 16
+mod_order: 2
+num_chips: 8
+snr_db: 10
+seed: 2026
